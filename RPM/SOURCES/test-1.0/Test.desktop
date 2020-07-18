@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Test
+Comment=Клавиатурный тренажер
+Exec=test.py
+Icon=/usr/share/pixmaps/logo
+Type=Application
+Categories=Education;
+Keywords=тренажер;test;

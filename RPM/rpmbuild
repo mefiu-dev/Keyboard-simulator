@@ -1,0 +1,10 @@
+~/rpmbuild
+|-- BUILD
+|-- BUILDROOT
+|-- RPMS
+|   |-- i586
+|   |-- x86_64
+|   `-- noarch
+|-- SOURCES
+|-- SPECS
+`-- SRPMS 
